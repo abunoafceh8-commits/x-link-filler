@@ -1,20 +1,19 @@
 {
-  "name": "x-link-filler",
-  "title": "مُعبّئ الروابط التلقائي — نموذج إبلاغ X",
-  "category": "أدوات X",
-  "description": "ابلاغات سريعة لتويتر (X).",
-  "liveUrl": "https://x-link-filler-1sxe.arcada.app/",
+  "name": "x-link-filler-reports",
+  "title": "مُعبّئ الروابط التلقائي — بلاغات سريعة تويتر/X",
+  "category": "أدوات X/Twitter",
+  "description": "نموذج إبلاغ X مع تعبئة الروابط تلقائيًا وبلاغات سريعة.",
+  "liveUrl": "https://x-link-filler-1sxe.arcada.app",
   "aliases": [],
   "sourceLinks": [],
   "originalTitle": "مُعبّئ الروابط التلقائي — نموذج إبلاغ X",
-  "originalDescription": "ابلاغات سريعة لتويتر (X).",
+  "originalDescription": "",
   "type": "static-website",
   "archivedAt": "2026-10-15",
   "readyForHosting": true,
   "files": [
-    "assets/index-BnduVA_Z.css",
-    "assets/index-C6yfUGIh.js",
     "favicon.svg",
-    "index.html"
+    "assets/index-C6yfUGIh.js",
+    "assets/index-BnduVA_Z.css"
   ]
 }
